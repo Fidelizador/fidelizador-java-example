@@ -2,7 +2,7 @@
 
 ## Configure enviroment variables
 
-This program uses system environment variables. To configure this variables is recommended to edit ~/.bashrc file or ~/.profile and to add the next commands at the end of file:
+This program uses system environment variables. To configure this variables is recommended to edit ~/.bashrc file or ~/.profile and add the next commands at the end of file:
 
 ```bash
 export CLIENT_ID="your_client_id"
